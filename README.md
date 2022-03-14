@@ -35,7 +35,7 @@ As a manager at an internet retail company, this application is a back end for m
 
 The following walkthrough video shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia. It also shows the application's POST, PUT, and DELETE routes for categories being tested.
 
-Click on the [link] (https://drive.google.com/file/d/1utKkFk7le1UXiQUW0T3vbnTjhBgnkCtp/view) to take a look at the functionality of this application.
+Click on the [link](https://drive.google.com/file/d/1utKkFk7le1UXiQUW0T3vbnTjhBgnkCtp/view) to take a look at the functionality of this application.
 
 ## Technologies
 
