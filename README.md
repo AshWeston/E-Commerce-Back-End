@@ -2,7 +2,7 @@
 
 ## Description
 
-This application creates the backend of an e-comerce website by using Express.js API and Sequelize to interact with a MySQL database. 
+This application creates the backend of an e-comerce website by using Express.js API and Sequelize to interact with a MySQL database.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ To install, `git clone` the repo to your local machine and run the following com
 
 `npm install`.
 
-Then, run the following commands to install dependencies. 
+Then, run the following commands to install dependencies.
 
 `npm i sequelize`
 
@@ -29,15 +29,13 @@ Then, run the following commands to install dependencies.
 
 ## Usage
 
-As a manager at an internet retail company, this application is a back end for my e-commerce website that uses the latest technologies so that my company can compete with other e-commerce companies. 
-
-
+As a manager at an internet retail company, this application is a back end for my e-commerce website that uses the latest technologies so that my company can compete with other e-commerce companies.
 
 ## Walkthrough
 
 The following walkthrough video shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia. It also shows the application's POST, PUT, and DELETE routes for categories being tested.
 
-Click on the [link] to take a look at the functionality of this application.
+Click on the [link] (https://drive.google.com/file/d/1utKkFk7le1UXiQUW0T3vbnTjhBgnkCtp/view) to take a look at the functionality of this application.
 
 ## Technologies
 
@@ -46,8 +44,8 @@ Click on the [link] to take a look at the functionality of this application.
 - JavaScript
 - MySQL
 - Express.js
-- Sequelize 
-- Insomnia 
+- Sequelize
+- Insomnia
 
   ## Contributing
 
